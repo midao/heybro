@@ -1,0 +1,8 @@
+H:\CProjects\Projekt\Projekt\bin\Debug\Projekt.exe.config
+H:\CProjects\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+H:\CProjects\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+H:\CProjects\Projekt\Projekt\obj\Debug\Projekt.Profil.resources
+H:\CProjects\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+H:\CProjects\Projekt\Projekt\obj\Debug\Projekt.Ubersicht.resources
+H:\CProjects\Projekt\Projekt\obj\Debug\Projekt.Zahlen.resources
+H:\CProjects\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
