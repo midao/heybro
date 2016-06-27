@@ -1,0 +1,5 @@
+H:\CProjects\Projekt2016\ModelProjekt\bin\Debug\ModelProjekt.dll
+H:\CProjects\Projekt2016\ModelProjekt\bin\Debug\ModelProjekt.pdb
+H:\CProjects\Projekt2016\ModelProjekt\obj\Debug\ModelProjekt.csprojResolveAssemblyReference.cache
+H:\CProjects\Projekt2016\ModelProjekt\obj\Debug\ModelProjekt.dll
+H:\CProjects\Projekt2016\ModelProjekt\obj\Debug\ModelProjekt.pdb

@@ -1,0 +1,13 @@
+H:\CProjects\Projekt2016\Projekt2016\bin\Debug\Projekt2016.exe.config
+H:\CProjects\Projekt2016\Projekt2016\obj\Debug\Projekt2016.csprojResolveAssemblyReference.cache
+H:\CProjects\Projekt2016\Projekt2016\obj\Debug\Projekt2016.Form1.resources
+H:\CProjects\Projekt2016\Projekt2016\obj\Debug\Projekt2016.Properties.Resources.resources
+H:\CProjects\Projekt2016\Projekt2016\obj\Debug\Projekt2016.csproj.GenerateResource.Cache
+H:\CProjects\Projekt2016\Projekt2016\bin\Debug\Projekt2016.exe
+H:\CProjects\Projekt2016\Projekt2016\bin\Debug\Projekt2016.pdb
+H:\CProjects\Projekt2016\Projekt2016\bin\Debug\DLL.dll
+H:\CProjects\Projekt2016\Projekt2016\bin\Debug\ModelProjekt.dll
+H:\CProjects\Projekt2016\Projekt2016\bin\Debug\DLL.pdb
+H:\CProjects\Projekt2016\Projekt2016\bin\Debug\ModelProjekt.pdb
+H:\CProjects\Projekt2016\Projekt2016\obj\Debug\Projekt2016.exe
+H:\CProjects\Projekt2016\Projekt2016\obj\Debug\Projekt2016.pdb
